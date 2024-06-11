@@ -7,7 +7,6 @@ zeros = [0 for _ in list]
 
 print(zeros)
 
-# This language does have easy intersection, awesome
 pairs = [
     (x, y)
     for x in range(2)
